@@ -6,3 +6,17 @@ Welcome to NyanScript
 <p align="center">
   <b>NyanScript, a CL written on python</b>
 </p>
+
+<p>NyanScipt is a very functional, easy to learn and use language that will help you!, developed based on multiple scripts, is now here to bring you all you need</p>
+
+<h2 align="center">.nyan Files</h2>
+
+<p>Usually, on the shell and py, the .nyan files will run just like you want them to, but we're currently working on a plugin to make things easier</p>
+```sh
+nyan-shell.py
+NyanCat🐱> RUN("cattest.nyan")
+```
+
+<p>Run that command on Nyan-shell or any other to test .nyan files functionality</>
+
+
