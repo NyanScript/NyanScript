@@ -90,6 +90,12 @@ NyanCat🐱> RUN("im111.nyan")
 nyan-shell.py
 NyanCat🐱im111>> NYAN- PKG name
 ```
+<p>Setting Loops</p>
+
+```
+FOR = 0 TO 10 THEN
+	PRINT("Nyan")
+END
   
   
   
