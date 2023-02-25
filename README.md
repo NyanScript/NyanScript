@@ -12,7 +12,8 @@ Welcome to NyanScript
 <h2 align="center">.nyan Files</h2>
 
 <p>Usually, on the shell and py, the .nyan files will run just like you want them to, but we're currently working on a plugin to make things easier</p>
-```sh
+
+```
 nyan-shell.py
 NyanCat🐱> RUN("cattest.nyan")
 ```
