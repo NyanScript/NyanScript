@@ -43,6 +43,17 @@ NyanCat🐱> RUN("Your File Name.nyan")
 VSCODE-PYTHON-CONSOLE
 py>> RUN("Your File Name.nyan")
 ```
+
+<h2 align="center">More Documentation</h2>
+
+<p>Constant Inventory</p>
+
+```
+DIGITS = '0123456789'
+LETTERS = string.ascii_letters
+LETTERS_DIGITS = LETTERS + DIGIT
+```
+
   
   
 
