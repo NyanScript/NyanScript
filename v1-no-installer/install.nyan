@@ -1,0 +1,1 @@
+In order to install, just add this files onto a newly created folder on the root folder of nyaour computer, that should be named "Nyan" and add "nyan-shell.py" as a DFLT, to use with VScode, go to the menu "Extensions" on VScode and search for "NyanScript"
