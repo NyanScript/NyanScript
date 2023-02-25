@@ -112,3 +112,10 @@ END
   Nyan,
   Nyan,
   ```
+### Download & Install
+
+<p>When downloading and installing, you need to first select weather you need/want an installer image or just the files to mannually install.</p>
+
+<p>We have installer images for linux and Windows (Visit the Installer images folder) however, if you're intending to use MAC, you may have to mannually install NyanScript.</p>
+
+<p> If the T&C file isn't working on the installers, check it once installed and agree on installation</p>
