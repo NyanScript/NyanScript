@@ -19,5 +19,18 @@ NyanCat🐱> RUN("cattest.nyan")
 ```
 
 <p>Run that command on Nyan-shell or any other to test .nyan files functionality</>
+  
+  <h2 align="center">Test it yourself</h2>
+  
+  <p>On any (supported) Code editor, create a file with the ".nyan" termination</p>
+  
+  <p>To create a traditional "Hello World" code, do it just like you would on PY</p>
+  
+  ```
+
+PRINT("Hello World")
+```
+  
+  
 
 
