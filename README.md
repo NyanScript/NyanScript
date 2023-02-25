@@ -54,6 +54,44 @@ LETTERS = string.ascii_letters
 LETTERS_DIGITS = LETTERS + DIGIT
 ```
 
+  <p>Keywork Inventory</p>
+  
+  ```
+  'VAR',
+  'AND',
+  'OR',
+  'NOT',
+  'IF',
+  'ELIF',
+  'ELSE',
+  'FOR',
+  'TO',
+  'STEP',
+  'WHILE',
+  'FUN',
+  'THEN',
+  'END',
+  'RETURN',
+  'CONTINUE',
+  'BREAK',
+  'NYAN',
+  ```
+  
+  <p>Running the Install Module</p>
+  
+  
+```
+nyan-shell.py
+NyanCat🐱> RUN("im111.nyan")
+```
+<p>And then run:</p>
+
+```
+nyan-shell.py
+NyanCat🐱im111>> NYAN- PKG name
+```
+  
+  
   
   
 
