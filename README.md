@@ -30,6 +30,19 @@ NyanCat🐱> RUN("cattest.nyan")
 
 PRINT("Hello World")
 ```
+
+<p>After saving the file, on the interactive "Nyan-Shell" or an interpreter, run:</p>
+
+```
+nyan-shell.py
+NyanCat🐱> RUN("Your File Name.nyan")
+```
+<p>And your "Hello World" shall appear, to run it on a PY debugging console, just type</p>
+  
+  ```
+VSCODE-PYTHON-CONSOLE
+py>> RUN("Your File Name.nyan")
+```
   
   
 
