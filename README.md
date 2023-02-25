@@ -96,9 +96,19 @@ NyanCat🐱im111>> NYAN- PKG name
 FOR = 0 TO 10 THEN
 	PRINT("Nyan")
 END
+  ```
   
+  <p>Result</p>
   
-  
-  
-
-
+  ```
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  Nyan,
+  ```
